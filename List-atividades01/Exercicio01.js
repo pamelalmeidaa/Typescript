@@ -11,5 +11,5 @@ let novoSalario = salario + abono;
 let x = readlineSync.questionInt("Digite seu salário: ");
 console.log("O número digitado é " + x);
 
-//* Exibindo o novo salário
+// Exibindo o novo salário
 console.log("Novo salário: " + novoSalario.toFixed(2));
