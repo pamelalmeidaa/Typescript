@@ -4,7 +4,7 @@ let nome;
 let idade;
 
 nome = leia.question("\nDigite seu nome : ")
-idade = leia.questionInt("n\Digite sua idade: ")
+idade = leia.questionInt("\Digite sua idade: ")
 
 if(idade >= 0 && idade <= 10){
    console.log("\nO seu Plano de Saude custara r$ 100,00 por mes. ");
