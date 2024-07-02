@@ -13,7 +13,7 @@ console.log(" 4 -- Bauru");
 console.log(" 5 -- Refrigerante ");
 console.log(" 6 -- Suco de Laranja ");
 
-pedido = readline.questionInt("\nDigite o código do seu pedido: ");
+pedido = readline.questionInt("\nDigite o codigo do seu pedido: ");
 
 switch (pedido) {
     case 1:
@@ -41,7 +41,7 @@ switch (pedido) {
         valorUnitario = 8.00;
         break;
     default:
-        console.log("\nCódigo de produto inválido!");
+        console.log("\nCódigo do pedido inválido!");
 }
 
 quantidade = readline.questionInt("Digite a quantidade desejada: ");
