@@ -1,9 +1,13 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "@types/node": "^20.14.9",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
     "@types/readline-sync": "^1.4.8"
+=======
+    "readline-sync": "^1.4.10"
+>>>>>>> e136b029ce0c5b3062295c9d0f140b06c968ab3a
   }
 }

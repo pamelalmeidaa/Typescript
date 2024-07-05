@@ -1,0 +1,1 @@
+console.log("O valor string digitado foi:" + mensagem);

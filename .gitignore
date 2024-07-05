@@ -2,7 +2,11 @@
 /dist
 /node_modules
 nodemon.json
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> e136b029ce0c5b3062295c9d0f140b06c968ab3a
 # Logs
 logs
 *.log
@@ -11,6 +15,7 @@ pnpm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+<<<<<<< HEAD
  
 # OS
 .DS_Store
@@ -19,6 +24,16 @@ lerna-debug.log*
 /coverage
 /.nyc_output
  
+=======
+
+# OS
+.DS_Store
+
+# Tests
+/coverage
+/.nyc_output
+
+>>>>>>> e136b029ce0c5b3062295c9d0f140b06c968ab3a
 # IDEs and editors
 /.idea
 .project
@@ -27,7 +42,11 @@ lerna-debug.log*
 *.launch
 .settings/
 *.sublime-workspace
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> e136b029ce0c5b3062295c9d0f140b06c968ab3a
 # IDE - Visual Studio Code
 .vscode/*
 !.vscode/settings.json
