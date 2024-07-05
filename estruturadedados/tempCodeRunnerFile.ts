@@ -1,0 +1,1 @@
+console.log("\nChecar se o Elemento Prato Verde existe na pilha? " + pilha.contains("Prato Verde"));
